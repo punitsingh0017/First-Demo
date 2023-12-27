@@ -1,4 +1,4 @@
 # First-Demo
 This is my first Git Repository
 <br>
-Author - Punit singh
+Author - Punit singh(Galgotia College)
